@@ -1,6 +1,6 @@
 /// Definitions inspected at build-time. These only exists so that they can
 /// be recognized by the zap compiler.
-library zap.internal.dsl;
+library;
 
 import 'dart:async';
 

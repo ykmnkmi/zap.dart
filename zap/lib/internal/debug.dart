@@ -1,4 +1,4 @@
 /// Additional helpers that are only used in debug builds.
-library zap.internal.debug;
+library;
 
 export '../src/blocks/debug.dart';

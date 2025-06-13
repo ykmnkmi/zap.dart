@@ -2,9 +2,15 @@ name: tools
 publish_to: none
 
 environment:
-  sdk: ^3.0.0
+  sdk: ^3.8.0
 
 dependencies:
   simons_pub_uploader:
     hosted: https://simonbinder.eu
     version: ^1.1.0
+
+workspace:
+  # - docs
+  - zap
+  - zap_dev
+  - riverpod_zap
